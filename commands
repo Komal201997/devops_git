@@ -4,3 +4,5 @@ git add
 git commit -m
 git branch
 git clone
+git push origin main
+git fetch 
